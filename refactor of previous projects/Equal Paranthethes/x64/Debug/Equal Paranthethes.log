@@ -1,0 +1,27 @@
+﻿  paranthethes.c
+E:\sprints_tasks\sprint 2\Equal pranthethes pro\Equal Paranthethes\paranthethes.c(20,36): warning C4047: 'function': 'ST_stack_t *' differs in levels of indirection from 'ST_stack_t **'
+E:\sprints_tasks\sprint 2\Equal pranthethes pro\Equal Paranthethes\paranthethes.c(20,19): warning C4024: 'createEmptyStack': different types for formal and actual parameter 1
+E:\sprints_tasks\sprint 2\Equal pranthethes pro\Equal Paranthethes\paranthethes.c(26,46): warning C4047: 'function': 'ST_stack_t *' differs in levels of indirection from 'ST_stack_t **'
+E:\sprints_tasks\sprint 2\Equal pranthethes pro\Equal Paranthethes\paranthethes.c(26,29): warning C4024: 'isFull': different types for formal and actual parameter 1
+E:\sprints_tasks\sprint 2\Equal pranthethes pro\Equal Paranthethes\paranthethes.c(31,27): warning C4047: 'function': 'ST_stack_t *' differs in levels of indirection from 'ST_stack_t **'
+E:\sprints_tasks\sprint 2\Equal pranthethes pro\Equal Paranthethes\paranthethes.c(31,10): warning C4024: 'push': different types for formal and actual parameter 1
+E:\sprints_tasks\sprint 2\Equal pranthethes pro\Equal Paranthethes\paranthethes.c(44,46): warning C4047: 'function': 'ST_stack_t *' differs in levels of indirection from 'ST_stack_t **'
+E:\sprints_tasks\sprint 2\Equal pranthethes pro\Equal Paranthethes\paranthethes.c(44,29): warning C4024: 'isFull': different types for formal and actual parameter 1
+E:\sprints_tasks\sprint 2\Equal pranthethes pro\Equal Paranthethes\paranthethes.c(49,27): warning C4047: 'function': 'ST_stack_t *' differs in levels of indirection from 'ST_stack_t **'
+E:\sprints_tasks\sprint 2\Equal pranthethes pro\Equal Paranthethes\paranthethes.c(49,10): warning C4024: 'push': different types for formal and actual parameter 1
+E:\sprints_tasks\sprint 2\Equal pranthethes pro\Equal Paranthethes\paranthethes.c(61,47): warning C4047: 'function': 'ST_stack_t *' differs in levels of indirection from 'ST_stack_t **'
+E:\sprints_tasks\sprint 2\Equal pranthethes pro\Equal Paranthethes\paranthethes.c(61,30): warning C4024: 'isEmpty': different types for formal and actual parameter 1
+E:\sprints_tasks\sprint 2\Equal pranthethes pro\Equal Paranthethes\paranthethes.c(72,52): warning C4047: 'function': 'ST_stack_t *' differs in levels of indirection from 'ST_stack_t **'
+E:\sprints_tasks\sprint 2\Equal pranthethes pro\Equal Paranthethes\paranthethes.c(72,35): warning C4024: 'getStackTop': different types for formal and actual parameter 1
+E:\sprints_tasks\sprint 2\Equal pranthethes pro\Equal Paranthethes\paranthethes.c(77,27): warning C4047: 'function': 'ST_stack_t *' differs in levels of indirection from 'ST_stack_t **'
+E:\sprints_tasks\sprint 2\Equal pranthethes pro\Equal Paranthethes\paranthethes.c(77,10): warning C4024: 'pop': different types for formal and actual parameter 1
+E:\sprints_tasks\sprint 2\Equal pranthethes pro\Equal Paranthethes\paranthethes.c(93,47): warning C4047: 'function': 'ST_stack_t *' differs in levels of indirection from 'ST_stack_t **'
+E:\sprints_tasks\sprint 2\Equal pranthethes pro\Equal Paranthethes\paranthethes.c(93,30): warning C4024: 'isEmpty': different types for formal and actual parameter 1
+E:\sprints_tasks\sprint 2\Equal pranthethes pro\Equal Paranthethes\paranthethes.c(104,52): warning C4047: 'function': 'ST_stack_t *' differs in levels of indirection from 'ST_stack_t **'
+E:\sprints_tasks\sprint 2\Equal pranthethes pro\Equal Paranthethes\paranthethes.c(104,35): warning C4024: 'getStackTop': different types for formal and actual parameter 1
+E:\sprints_tasks\sprint 2\Equal pranthethes pro\Equal Paranthethes\paranthethes.c(109,27): warning C4047: 'function': 'ST_stack_t *' differs in levels of indirection from 'ST_stack_t **'
+E:\sprints_tasks\sprint 2\Equal pranthethes pro\Equal Paranthethes\paranthethes.c(109,10): warning C4024: 'pop': different types for formal and actual parameter 1
+E:\sprints_tasks\sprint 2\Equal pranthethes pro\Equal Paranthethes\paranthethes.c(126,45): warning C4047: 'function': 'ST_stack_t *' differs in levels of indirection from 'ST_stack_t **'
+E:\sprints_tasks\sprint 2\Equal pranthethes pro\Equal Paranthethes\paranthethes.c(126,28): warning C4024: 'isEmpty': different types for formal and actual parameter 1
+  LINK : E:\sprints_tasks\sprint 2\Equal pranthethes pro\Equal Paranthethes\x64\Debug\Equal Paranthethes.exe not found or not built by the last incremental link; performing full link
+  Equal Paranthethes.vcxproj -> E:\sprints_tasks\sprint 2\Equal pranthethes pro\Equal Paranthethes\x64\Debug\Equal Paranthethes.exe
